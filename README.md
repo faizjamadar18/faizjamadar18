@@ -52,5 +52,5 @@ I build from zero. Whether it's frontend, backend, full-stack applications, or A
 
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=KartikLabhshetwar&color=blueviolet&style=flat-square" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=faizjamadar18" alt="Profile views" />
 </div>
