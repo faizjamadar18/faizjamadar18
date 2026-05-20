@@ -19,6 +19,11 @@
 
 Exploring the codebase to understand BetterShot's features and functionality.
 
+- **[AttendX](https://github.com/faizjamadar18/AttendX)** — – Built an AI-powered attendance automation platform using classroom image analysis and bulk voice
+recognition to automatically identify present students and log attendance, reducing manual effort by 90%.
+– Implemented facial recognition-based student login, replacing traditional text-based authentication
+– Designed a QR-based subject enrollment workflow for teachers to securely share and manage course access.
+
 - **[Connectify](https://github.com/faizjamadar18/Connectify)** — – Implemented real-time messaging using Socket.io, achieving instant synchronization across devices.
 – Engineered low-latency 1:1 video calling capabilities via WebRTC, with seamless HD connections.
 – Developed a robust media sharing system supporting images, videos, and large files, optimizing upload speeds by
