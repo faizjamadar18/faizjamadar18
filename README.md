@@ -13,7 +13,7 @@
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
 
   
-**I build AI-first SaaS products **  
+** I build AI-first SaaS products **  
 I ship things end-to-end: idea → design → frontend → backend → infra → launch.
 
 </div>
