@@ -1,61 +1,133 @@
-<h1 align="center">Faiz Jamadar</h1>
+<div align="center">
+  
+# 👋 Hey, I'm **Faiz**
 
-<h3 align="center">AI engineer & Software developer currently building from zero.</h3>
+### **Full-Stack AI Engineer**
 
-<p align="center">
-  <a href="https://faiz-porfolio.vercel.app" target="_blank">PortFolio</a> •
-  <a href="https://www.linkedin.com/in/faiz-jamadar-2859732a4" target="_blank">linkedin</a> •
-  <a href="https://github.com/faizjamadar18" target="_blank">github</a> •
-  <a href="mailto:faizjamadar18@gmail.com" target="_blank">email</a>
-</p>
+  
+<!-- Badges -->
+![Next.js](https://img.shields.io/badge/Next.js-black?style=flat-square&logo=nextdotjs)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
+
+  
+**I build AI-first SaaS products, creator-focused tools, and fast MVPs.**  
+I ship things end-to-end: idea → design → frontend → backend → infra → launch.
+
+</div>
 
 ---
 
-#### 🔷 my goto stack
-- javascript · python · react · next.js · node.js · express · mongoDB · Mysql · prisma · tailwind · langchain · langgraph · pytorch
-  
 
-#### 🔷 my latest projects
+---
 
-Exploring the codebase to understand BetterShot's features and functionality.
+## 🧩 **What I Do**
+- ⚡ Build **AI-powered SaaS products** 
+- 🔌 Integrate AI: OpenAI, Gemini, Groq, embeddings, RAG  
+- 🧱 Architect scaleable systems (Next.js, FastAPI, Supabase, MERN)
 
-- **[AttendX](https://github.com/faizjamadar18/AttendX)** — – Built an AI-powered attendance automation platform using classroom image analysis and bulk voice
-recognition to automatically identify present students and log attendance, reducing manual effort by 90%.
-– Implemented facial recognition-based student login, replacing traditional text-based authentication
-– Designed a QR-based subject enrollment workflow for teachers to securely share and manage course access.
+---
 
-- **[Connectify](https://github.com/faizjamadar18/Connectify)** — – Implemented real-time messaging using Socket.io, achieving instant synchronization across devices.
-– Engineered low-latency 1:1 video calling capabilities via WebRTC, with seamless HD connections.
-– Developed a robust media sharing system supporting images, videos, and large files, optimizing upload speeds by
-30% through efficient buffer handling and cloud storage integration.
-– Secured user sessions with JWT-based authentication and HTTP-only cookies.
+## 🔥 **Featured Projects**
 
-- **[XpenseFlow](https://github.com/faizjamadar18/Xpense-flow)** — – Built an AI-powered finance platform helping users manage expenses, improving financial awareness by 90%.
-– Added AI receipt scanning to extract merchant, date, amount, and category with 90% accuracy, cutting manual
-entry by 98%.
-– Implemented automated monthly email reports with AI-generated spending insights and 80% budget-threshold
-alerts, enabling users to stay proactive and avoid overspending
+### **AttendX - Beyond Role Calls**
+Built an AI-powered smart attendance platform with computer vision, facial and voice recognition, and QR-based enrollment, cutting manual attendance effort by 90%.
+**Tech:**  Python, Scikit-learn, Computer vision, Streamlit, Supabase
+🔗 [View](https://github.com/faizjamadar18/AttendX)
 
-- **[Faizbook.ai](https://github.com/faizjamadar18/AI-content-creator-by-Faiz)** — – Architected my own fully-featured social media platform (Instagram/Facebook style).
-– Built AI-powered editing tools achieving 98% precision in background removal and professional shadow effects.
-– Integrated Generative AI to automate context-aware captions based on the image and title given, cutting content or
-caption writing time by 90%.
-– Engineered a scalable interaction engine handling seamless follow/unfollow logic, likes, and real-time comments.
+<hr />
+
+### **Xpense-flow - Powered By AI **
+Engineered a modern AI Expense Management SaaS featuring receipt scanning, automated reports, and proactive budget alerts via email to make personal finance smarter and stress-free.
+**Tech:** Next.js, Clerk, Supabase, Prisma, Gemini API  
+🔗 [View](https://github.com/faizjamadar18/Xpense-flow)
+
+<hr />
+
+### **DocsChat - RAG Based DocumentAssistant **
+Engineered DocsChat, a modern AI SaaS for chatting with documents—combining RAG, semantic retrieval, and multi-LLM support to deliver instant, citation-backed answers from PDFs.
+
+**Tech:** Next.js, FastAPI, LangChain, ChromaDB
+🔗 [View](https://github.com/faizjamadar18/DocsChat)
+
+<hr />
+
+### **Faizbook.ai **
+Created Faizbook.ai, a modern AI social SaaS that empowers users to create, enhance, and share content effortlessly with AI-powered editing, captioning, and personalized social feeds.
+**Tech:** Next.js, Convex, Gemini API, Imagekit.io 
+🔗 [View](https://github.com/faizjamadar18/AI-content-creator-by-Faiz)
+
+<hr />
+
+### **Faizbook.ai **
+Created Connectify, an all-in-one communication SaaS featuring real-time messaging, 1:1 video calls, and high-speed media sharing optimized with cloud storage and JWT-based security.
+**Tech:** MERN, Socket.io, Webrtc
+🔗 [View](https://github.com/faizjamadar18/Connectify)
+
+<hr />
 
 
-#### 🔷 building from zero
 
-I build from zero. Whether it's frontend, backend, full-stack applications, or AI-powered experiences, I work across the entire development lifecycle. From UI/UX to deployment to user feedback, I care less about technology debates and more about delivering results that people love using.
-
+## 🔥 **Core ML Projects**
 
 
+### **FaceGen - Vanilla GAN for Face Synthesis**
+Created FaceGen, a generative AI system powered by Vanilla GANs that transforms latent vectors into realistic 64×64 RGB face images using deep learning and computer vision techniques.
+**Tech:** PyTorch, Deep Learning, Computer Vision, GANs
+🔗 [View](https://github.com/faizjamadar18/facegen-vanilla-gan)
 
-#### 🔷 currently exploring
-- **AI/ML systems:** Integrating large language models into production applications, understanding model capabilities, and building intelligent user experiences.
-- **Full-stack architecture:** Designing scalable, maintainable systems that span from user interfaces to backend infrastructure.
-- **Developer experience:** Creating tools and extensions that enhance productivity and streamline development workflows.
+<hr />
 
+### **FlappyBird AI - Deep Reinforcement Learning Agent**
+Created FlappyBird AI, a Deep RL system that teaches itself to survive and excel at Flappy Bird using neural networks, experience replay, and adaptive exploration strategies.
+**Tech:** Python, PyTorch, Reinforcement learning
+🔗 [View](https://github.com/faizjamadar18/flappy-bird-dqn)
+
+<hr />
+
+### **SmartCart - Customer Segmentation System
+Built SmartCart, an AI-powered customer intelligence platform that leverages unsupervised learning to uncover high-value customer segments and enable data-driven marketing strategies.
+**Tech:**  Python, Scikit-learn, Pandas, Seaborn, Unsupervised ML
+🔗 [View](https://github.com/faizjamadar18/Smartcart)
+
+<hr />
+
+## 🧠 **Tech Stack**
+
+**Frontend:**  
+> Next.js • React • Tailwind • TypeScript 
+
+**Backend:**  
+> FastAPI • Flask • Node.js • REST APIs • Auth (Clerk)
+
+**AI:**  
+> OpenAI • Gemini • Embeddings • RAG Systems • LLM Orchestration
+
+**Databases:**  
+> Supabase • MongoDB • ChromaDB • MySQL
+
+**Infra:**  
+> Vercel • Render • Docker • AWS
+
+---
+
+## 📬 **Let's Connect**
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=faizjamadar18" alt="Profile views" />
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white)](https://faizx.vercel.app)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/faiz-jamadar-2859732a4)
+[![Twitter](https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/faizjamadar18)
+[![Email](https://img.shields.io/badge/Email-black?style=for-the-badge&logo=gmail&logoColor=white)](mailto:faizjamadar18@gmail.com)
+
+</div>
+
+---
+
+<div align="center">
+
+### *Open for opportunities*
+
 </div>
