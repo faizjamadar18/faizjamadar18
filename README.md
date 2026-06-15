@@ -34,19 +34,21 @@ I ship things end-to-end: idea → design → frontend → backend → infra →
 
 ### **AttendX - Beyond Role Calls**
 Built an AI-powered smart attendance platform with computer vision, facial and voice recognition, and QR-based enrollment, cutting manual attendance effort by 90%.
+
 **Tech:**  Python, Scikit-learn, Computer vision, Streamlit, Supabase
 🔗 [View](https://github.com/faizjamadar18/AttendX)
 
 <hr />
 
-### **Xpense-flow - Powered By AI **
+### **Xpense-flow - Powered By AI**
 Engineered a modern AI Expense Management SaaS featuring receipt scanning, automated reports, and proactive budget alerts via email to make personal finance smarter and stress-free.
+
 **Tech:** Next.js, Clerk, Supabase, Prisma, Gemini API  
 🔗 [View](https://github.com/faizjamadar18/Xpense-flow)
 
 <hr />
 
-### **DocsChat - RAG Based DocumentAssistant **
+### **DocsChat - RAG Based DocumentAssistant**
 Engineered DocsChat, a modern AI SaaS for chatting with documents—combining RAG, semantic retrieval, and multi-LLM support to deliver instant, citation-backed answers from PDFs.
 
 **Tech:** Next.js, FastAPI, LangChain, ChromaDB
@@ -54,15 +56,17 @@ Engineered DocsChat, a modern AI SaaS for chatting with documents—combining RA
 
 <hr />
 
-### **Faizbook.ai **
+### **Faizbook.ai**
 Created Faizbook.ai, a modern AI social SaaS that empowers users to create, enhance, and share content effortlessly with AI-powered editing, captioning, and personalized social feeds.
+
 **Tech:** Next.js, Convex, Gemini API, Imagekit.io 
 🔗 [View](https://github.com/faizjamadar18/AI-content-creator-by-Faiz)
 
 <hr />
 
-### **Faizbook.ai **
+### **Connectify - A real-time communication SaaS**
 Created Connectify, an all-in-one communication SaaS featuring real-time messaging, 1:1 video calls, and high-speed media sharing optimized with cloud storage and JWT-based security.
+
 **Tech:** MERN, Socket.io, Webrtc
 🔗 [View](https://github.com/faizjamadar18/Connectify)
 
@@ -75,6 +79,7 @@ Created Connectify, an all-in-one communication SaaS featuring real-time messagi
 
 ### **FaceGen - Vanilla GAN for Face Synthesis**
 Created FaceGen, a generative AI system powered by Vanilla GANs that transforms latent vectors into realistic 64×64 RGB face images using deep learning and computer vision techniques.
+
 **Tech:** PyTorch, Deep Learning, Computer Vision, GANs
 🔗 [View](https://github.com/faizjamadar18/facegen-vanilla-gan)
 
@@ -82,13 +87,15 @@ Created FaceGen, a generative AI system powered by Vanilla GANs that transforms 
 
 ### **FlappyBird AI - Deep Reinforcement Learning Agent**
 Created FlappyBird AI, a Deep RL system that teaches itself to survive and excel at Flappy Bird using neural networks, experience replay, and adaptive exploration strategies.
+
 **Tech:** Python, PyTorch, Reinforcement learning
 🔗 [View](https://github.com/faizjamadar18/flappy-bird-dqn)
 
 <hr />
 
-### **SmartCart - Customer Segmentation System
+### **SmartCart - Customer Segmentation System**
 Built SmartCart, an AI-powered customer intelligence platform that leverages unsupervised learning to uncover high-value customer segments and enable data-driven marketing strategies.
+
 **Tech:**  Python, Scikit-learn, Pandas, Seaborn, Unsupervised ML
 🔗 [View](https://github.com/faizjamadar18/Smartcart)
 
