@@ -2,7 +2,7 @@
   
 # 👋 Hey, I'm **Faiz**
 
-### **Full-Stack AI Engineer**
+### **Software Developer & AI Engineer**
 
   
 <!-- Badges -->
@@ -23,7 +23,8 @@
 ---
 
 ## 🧩 **What I Do**
-- ⚡ Build **AI-powered SaaS products** 
+- ⚡ Skilled in production-ready Full-stack development
+- 🚀 AI Automations, intelligent predictive modeling, and data-driven AI/ML solutions
 - 🔌 Integrate AI: OpenAI, Gemini, Groq, embeddings, RAG  
 - 🧱 Architect scaleable systems (Next.js, FastAPI, Supabase, MERN)
 
