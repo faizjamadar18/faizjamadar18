@@ -32,19 +32,19 @@ I ship things end-to-end: idea → design → frontend → backend → infra →
 
 ## 🔥 **Featured Projects**
 
-### **AttendX - Beyond Role Calls**
+### **AttendX - Beyond Role Calls** 🔗 [View](https://github.com/faizjamadar18/AttendX)
 Built an AI-powered smart attendance platform with computer vision, facial and voice recognition, and QR-based enrollment, cutting manual attendance effort by 90%.
 
 **Tech:**  Python, Scikit-learn, Computer vision, Streamlit, Supabase
-🔗 [View](https://github.com/faizjamadar18/AttendX)
+
 
 <hr />
 
-### **Xpense-flow - Powered By AI**
+### **Xpense-flow - Powered By AI** 🔗 [View](https://github.com/faizjamadar18/Xpense-flow)
 Engineered a modern AI Expense Management SaaS featuring receipt scanning, automated reports, and proactive budget alerts via email to make personal finance smarter and stress-free.
 
 **Tech:** Next.js, Clerk, Supabase, Prisma, Gemini API  
-🔗 [View](https://github.com/faizjamadar18/Xpense-flow)
+
 
 <hr />
 
