@@ -1,9 +1,5 @@
 <div align="center">
-  
-# 👋 Hey, I'm **Faiz**
-
-### **Software Developer & AI Engineer**
-
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,30:161b22,60:21262d,100:30363d&height=200&section=header&text=%F0%9F%91%8B%20Hey%2C%20I%27m%20Faiz&fontSize=48&fontColor=fff&animation=fadeIn&fontAlignY=36&desc=Software%20Developer%20%E2%80%A2%20AI%20Engineer%20%E2%80%A2%20Product%20Builder&descSize=15&descAlignY=58&descColor=8b949e" width="100%"/>
   
 <!-- Badges -->
 ![Next.js](https://img.shields.io/badge/Next.js-black?style=flat-square&logo=nextdotjs)
