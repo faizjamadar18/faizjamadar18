@@ -9,7 +9,7 @@
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
 
   
-**I build AI-Powered SaaS products along with data driven ML solutions**  
+**I build AI-powered SaaS products and scalable AI systems**  
 
 </div>
 
