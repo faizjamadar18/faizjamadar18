@@ -32,6 +32,7 @@ EBring every tool you use into one workspace. Ask in plain language, and every a
 
 **Tech:** Next.js, FastAPI, Python, Typescript, Qdrant, Claudeflare R2
 
+<hr />
 
 ### **AttendX - Beyond Role Calls** 🔗 [View](https://github.com/faizjamadar18/AttendX)
 Built an AI-powered smart attendance platform with computer vision, facial and voice recognition, and QR-based enrollment, cutting manual attendance effort by 90%.
