@@ -26,6 +26,13 @@
 
 ## 🔥 **Featured Projects**
 
+
+### **Quello - ** 🔗 [View](https://github.com/faizjamadar18/Quello)
+EBring every tool you use into one workspace. Ask in plain language, and every answer links to its source.
+
+**Tech:** Next.js, FastAPI, Python, Typescript, Qdrant, Claudeflare R2
+
+
 ### **AttendX - Beyond Role Calls** 🔗 [View](https://github.com/faizjamadar18/AttendX)
 Built an AI-powered smart attendance platform with computer vision, facial and voice recognition, and QR-based enrollment, cutting manual attendance effort by 90%.
 
@@ -41,11 +48,6 @@ Engineered a modern AI Expense Management SaaS featuring receipt scanning, autom
 
 
 <hr />
-
-### **DocsChat - RAG Based DocumentAssistant** 🔗 [View](https://github.com/faizjamadar18/DocsChat)
-Engineered DocsChat, a modern AI SaaS for chatting with documents—combining RAG, semantic retrieval, and multi-LLM support to deliver instant, citation-backed answers from PDFs.
-
-**Tech:** Next.js, FastAPI, LangChain, ChromaDB
 
 
 <hr />
