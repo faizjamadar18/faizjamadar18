@@ -28,7 +28,7 @@
 
 
 ### **Quello - One place to ask across everything you use** 🔗 [View](https://github.com/faizjamadar18/Quello)
-EBring every tool you use into one workspace. Ask in plain language, and every answer links to its source.
+Bring every tool you use into one workspace. Ask in plain language, and every answer links to its source.
 
 **Tech:** Next.js, FastAPI, Python, Typescript, Qdrant, Claudeflare R2
 
