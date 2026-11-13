@@ -35,7 +35,7 @@ Bring every tool you use into one workspace. Ask in plain language, and every an
 <hr />
 
 ### **WaitFeed - A distraction-free terminal news ticker for AI coding agents** 🔗 [View](https://github.com/faizjamadar18/waitfeed)
-Real news in OpenCode, Claude Code, and Antigravity while your agent works, gone the second it stops. No servers, no ads, and completely keyless. Tech: 
+Turn every agent wait into a live tech briefing with fresh dev stories, trending repos, and community discussions in your terminal—built for Claude Code, OpenCode, and Antigravity.
 
 **Tech:** TypeScript, Node.js, OpenTUI, Solid.js, Next.js
 
