@@ -34,6 +34,13 @@ Bring every tool you use into one workspace. Ask in plain language, and every an
 
 <hr />
 
+### **WaitFeed - A distraction-free terminal news ticker for AI coding agents** 🔗 [View](https://github.com/faizjamadar18/waitfeed)
+Real news in OpenCode, Claude Code, and Antigravity while your agent works, gone the second it stops. No servers, no ads, and completely keyless. Tech: 
+
+**Tech:** TypeScript, Node.js, OpenTUI, Solid.js, Next.js
+
+<hr />
+
 ### **AttendX - Beyond Role Calls** 🔗 [View](https://github.com/faizjamadar18/AttendX)
 Built an AI-powered smart attendance platform with computer vision, facial and voice recognition, and QR-based enrollment, cutting manual attendance effort by 90%.
 
